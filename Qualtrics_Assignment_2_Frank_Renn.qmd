@@ -48,11 +48,11 @@ The original Opinion Leaders section does not directly measure whether a specifi
 
 ## Identifying Other Social Media Platforms
 
-
 Q2.2 only lists selected social media platforms and does not identify platforms categorized as “Other.” I added a follow-up question asking participants to list any other platforms they use, providing more complete information about their social-media usage.
 
 ![Improvement3](improvment3.png)
 
 # Appendix
-Github Repo: <>  
-Github Pages: <>
+
+Github Repo: <https://github.com/falasol/Qualtrics-M02>  
+Github Pages: <https://falasol.github.io/Qualtrics-M02/Qualtrics_Assignment_2_Frank_Renn.html>
